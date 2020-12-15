@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1082600818875",
+    "firebase_url": "https://able-contacts-sync-default-rtdb.firebaseio.com",
+    "project_id": "able-contacts-sync",
+    "storage_bucket": "able-contacts-sync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082600818875:android:ff6b1d09c91fc09f0ac19e",
+        "android_client_info": {
+          "package_name": "com.example.ablecontactsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082600818875-shgqr8hppp0npds7evmh9biflqjlcdl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChpiQup_pqPOADvq_hHbTOrZUHhqE88Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082600818875-shgqr8hppp0npds7evmh9biflqjlcdl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
