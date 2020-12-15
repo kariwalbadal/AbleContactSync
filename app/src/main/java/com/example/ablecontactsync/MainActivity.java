@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
                         int l = task.getResult().size();
                         if (l == 0) {
                             Log.i(TAG, "Database is empty");
-                            Toast.makeText(getApplicationContext(), "Database is empty. Sync completed", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(getApplicationContext(), "No updates today. Sync completed.", Toast.LENGTH_SHORT).show();
                             return;
                         }
                         int i = 0;
